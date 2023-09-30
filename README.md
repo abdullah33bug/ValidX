@@ -8,3 +8,7 @@ User can use any database or website which helps in validating email address aut
 ![111](https://github.com/abdullah33bug/ValidX/assets/124719042/e2dbf56b-8bad-44f8-92e8-af3949dd7ea5)
 
 ![110](https://github.com/abdullah33bug/ValidX/assets/124719042/93525c6b-2bbe-40d0-8b5c-a550d7893530)
+
+This webapp version is currently useable for small data chunks but time to time it will be improved and imporvised for bigger data chunks.
+
+#User can manipulate and made changes as per need and requirements.
