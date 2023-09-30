@@ -1,6 +1,6 @@
 # ValidX
 
-This webapp is built aimed at helping organisations specifically involved in email marketing. By just reading email address none can predict either it's even registered or not. 
+This webapp is built aimed at helping organisations uses email marketing. By just reading email address none can predict either it's registered or not. 
 User can check email address that if it is registered and valid or not. Through this user will be able to send product emails to real users saving resources from being waste.
 ![112](https://github.com/abdullah33bug/ValidX/assets/124719042/602e7698-0adf-4092-b592-26be4f10e1ab)
 
