@@ -11,4 +11,4 @@ User can use any database or website which helps in validating email address aut
 
 This webapp version is currently useable for small data chunks but time to time it will be improved and imporvised for bigger data chunks.
 
-#User can manipulate and made changes as per need and requirements.
+###User can manipulate and make changes as per need and requirements.
